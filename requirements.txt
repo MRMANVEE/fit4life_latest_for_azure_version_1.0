@@ -1,0 +1,8 @@
+Flask==2.2.2
+Flask-Mail==0.9.1
+pyodbc==4.0.35
+pyshorteners==1.0.1
+requests==2.31.0
+schedule==1.2.0
+
+
