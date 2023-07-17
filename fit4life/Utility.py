@@ -2,6 +2,7 @@ from datetime import datetime
 
 
 
+
 def changeDateFormatOnly(FinalDate):
     dateModification = FinalDate.split('-')
     return f"{dateModification[2]}/{dateModification[1]}/{dateModification[0]}"

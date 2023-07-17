@@ -1,6 +1,6 @@
 
 class Domain:
-    domainName = "https://perennialcode.pythonanywhere.com/"
+    domainName = "https://fit4life-apis.azurewebsites.net/"
 
 
 class mail:
