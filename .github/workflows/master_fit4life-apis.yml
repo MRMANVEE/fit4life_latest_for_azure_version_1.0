@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Fit4Life-Apis'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CBB0C34E301644B08A105457CFE4CECE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BE9D27B064334F4A9EF94384BB8B39EC }}
