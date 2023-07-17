@@ -10,7 +10,7 @@ def changingTimeFormat24T12(time):
     Tsplitedtime = time.split(':')
     return (datetime.strptime(f"{Tsplitedtime[0]}:{Tsplitedtime[1]}", "%H:%M").time()).strftime("%I:%M %p")
 
-
+#ss
 def changeTimeFormat(date_time):
     date_time_split = date_time.split()
     date_split = date_time_split[0].split('-')
