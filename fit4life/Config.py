@@ -21,7 +21,7 @@ class WhatsApp:
     imageLogo = "http://fit4lifeindia.in/images/logos/logo-icon.png"
 
 class fit4lifeFolderLocation:
-    address = "/home/perennialcode/mysite/fit4life/"
+    address = "fit4life/"
 
 class ApptProposalDatesExpireHours:
     hours = 24
