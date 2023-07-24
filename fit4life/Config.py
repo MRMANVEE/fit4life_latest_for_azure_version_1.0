@@ -6,8 +6,8 @@ class Domain:
 class mail:
     serverDeleteLater = "mail.fit4lifeindia.in"
     server = "smtp.gmail.com"
-    sender_mail = "fit4life.appoitments@gmail.com"
-    sender_pasword = "svikdpxtfnxluxac"
+    sender_mail = "rangusaipavan6@gmail.com"
+    sender_pasword = "iqmzphegahahetxe"
     port = 465
 
 class fit4lifeLogo:
@@ -17,7 +17,7 @@ class fit4lifeLogo:
 
 class WhatsApp:
     service = "http://bulkwhatsapp.live/wapp/api/send"
-    apiKey = "2c4dc1755f4348c8b8efe8d1b47bbf8c"
+    apiKey = "61e8d10a3a0948638364c96736d9994d"
     imageLogo = "http://fit4lifeindia.in/images/logos/logo-icon.png"
 
 class fit4lifeFolderLocation:

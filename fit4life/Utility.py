@@ -20,6 +20,7 @@ def changeTimeFormat(date_time):
     return final
 
 
+
 def change_date_format_ical(data):
     st_date = str(data)
     date_splite = st_date.split()
